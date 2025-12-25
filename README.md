@@ -66,6 +66,5 @@
 
 ### ⚡ Fun Fact
 > I believe learning by building and making mistakes is the best way to grow 🚀
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathul-exe&show_icons=true&theme=tokyonight)
+
 
