@@ -47,6 +47,9 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
   </a>
+  <a href="https://www.autodesk.com/in/products/fusion-360/overview" target="_blank">
+    <img src="https://www.freelogovectors.net/wp-content/uploads/2023/05/autodesk-fusion-360_logo-freelogovectors.net_.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
