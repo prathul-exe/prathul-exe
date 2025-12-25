@@ -50,6 +50,9 @@
   <a href="https://www.autodesk.com/in/products/fusion-360/overview" target="_blank">
     <img src="https://www.freelogovectors.net/wp-content/uploads/2023/05/autodesk-fusion-360_logo-freelogovectors.net_.png" width="40" height="40"/>
   </a>
+  <a href="https://www.kicad.org/" target="_blank">
+    <img src="https://image.pngaaa.com/670/3150670-middle.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
