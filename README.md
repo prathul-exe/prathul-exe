@@ -54,7 +54,7 @@
     <img src="https://image.pngaaa.com/670/3150670-middle.png" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="hthttps://numpy.org/images/logo.svg" width="40" height="40"/>
+    <img src="https://studyopedia.com/wp-content/uploads/2022/03/numpy-big-logo-768x768.png" width="40" height="40"/>
   </a>
 </p>
 
