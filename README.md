@@ -50,7 +50,7 @@
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://www.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
+  <!-- <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
   </a>
   <a href="https://www.autodesk.com/in/products/fusion-360/overview" target="_blank">
@@ -58,7 +58,7 @@
   </a>
   <a href="https://www.kicad.org/" target="_blank">
     <img src="https://image.pngaaa.com/670/3150670-middle.png" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 ---
