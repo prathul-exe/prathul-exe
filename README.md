@@ -47,6 +47,9 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://www.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png" width="40" height="40"/>
+  </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
   </a>
