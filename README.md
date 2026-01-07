@@ -51,7 +51,7 @@
     <img src="https://www.phidgets.com/education/wp-content/uploads/2021/04/Matplotlib_icon.png" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/315810/92255199-f6707f80-ee9f-11ea-9b8d-182dba6a0c59.png" width="40" height="40"/>
+    <img src="https://unifiedmentor.com/assets/Icon10-BaIL57Yo.png" width="40" height="40"/>
   </a>
   <!-- <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
