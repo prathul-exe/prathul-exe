@@ -65,6 +65,9 @@
   <a href="https://www.kicad.org/" target="_blank">
     <img src="https://image.pngaaa.com/670/3150670-middle.png" width="40" height="40"/>
   </a>
+  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html?ADICID=PDSR_Global_LTspice-NB_Google_PSC_202508&gad_source=1&gad_campaignid=22826770531&gbraid=0AAAAACxqTx92VsUIC5d7VAIk_dlE-qhfQ&gclid=Cj0KCQiAwYrNBhDcARIsAGo3u33lgdZqH61n5hOXlaVOX8GyRLGfFWj_tm9MqNyjSx9cjv1m9DeShjAaAplPEALw_wcB" target="_blank">
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/9699744/ltspice.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
