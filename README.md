@@ -8,8 +8,9 @@
   ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.<br>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul" alt="Prathul" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML,Electronics;Hardware%20Coding;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul%20P%20Nair" alt="Prathul" /></a>
+  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML;
+  Electronics;Hardware%20Coding;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -36,12 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-  <p>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
