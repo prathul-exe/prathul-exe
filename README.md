@@ -7,18 +7,11 @@
   💬 Skills I acquire in programming languages such as Python, C.<br>
   ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.<br>
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul%20P%20Nair" alt="Prathul" /></a>
-</p>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML;
-  Electronics;
-  Hardware%20Coding
-  Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
 
 
   # 👨‍💻Tech Stack
+   
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
