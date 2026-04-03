@@ -5,10 +5,13 @@
 💬 Skills I acquire in programming languages such as Python, C.  
 ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
 
-<p align="center">
-  <img src="Name.svg" align="left" width="400" style="margin-right: 20px;" />
-  <img src="Hobbies.svg" align="left" width="1000" style="margin-right: 20px;" />
-</p>
+<br clear="left"/>
+
+<!-- SVG Section -->
+<img src="Name.svg" align="left" width="300" style="margin-right: 20px;"/>
+<img src="Hobbies.svg" align="left" width="300" style="margin-right: 20px;"/>
+
+<br clear="left"/>
 
 
  # 👨‍💻Tech Stack
