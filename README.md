@@ -8,7 +8,7 @@
 <br clear="left"/>
 
 <!-- Name Banner -->
-<p align="center">
+<p align="left">
   <img src="Name.svg" width="50%"/>
 </p>
 
