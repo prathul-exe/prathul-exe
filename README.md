@@ -1,16 +1,11 @@
-<table>
-  <tr>
-    <td valign="top" style="padding-right: 20px;">
-      <img src="SUPERMARIO.gif" width="250"/>
-    </td>
-    <td valign="top">
-      <h3>💫 About Me</h3>
-      🌱 I am currently working on and developing my programming skills.<br>
-      💬 Skills I acquire in programming languages such as Python, C.<br>
-      ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
-    </td>
-  </tr>
-</table>
+<img src="SUPERMARIO.gif" align="left" width="250" style="margin-right: 20px;"/>
+
+### 💫 About Me
+🌱 I am currently working on and developing my programming skills.  
+💬 Skills I acquire in programming languages such as Python, C.  
+⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
+
+<br clear="left"/>
   <align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul%20P%20Nair" alt="Prathul" /></a>
   <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML;
