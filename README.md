@@ -1,13 +1,16 @@
-<img align="left" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
-<p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  💬 Skills I acquire in programming languages such as Python, C.<br>
-  ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.<br>
-</p>
-<p>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20px;">
+      <img src="SUPERMARIO.gif" width="250"/>
+    </td>
+    <td valign="top">
+      <h3>💫 About Me</h3>
+      🌱 I am currently working on and developing my programming skills.<br>
+      💬 Skills I acquire in programming languages such as Python, C.<br>
+      ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
+    </td>
+  </tr>
+</table>
   <align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul%20P%20Nair" alt="Prathul" /></a>
   <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML;
