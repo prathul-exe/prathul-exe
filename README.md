@@ -1,4 +1,4 @@
-<img src="SUPERMARIO.gif" align="left" width="250" style="margin-right: 20px;"/>
+<img src="SUPERMARIO.gif" align="left" width="400" style="margin-right: 20px;"/>
 
 ### 💫 About Me
 🌱 I am currently working on and developing my programming skills.  
