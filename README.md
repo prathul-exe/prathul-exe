@@ -6,10 +6,8 @@
 ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
 
 <p align="center">
-<img src="Name.svg" align="left" width="400" style="margin-right: 20px;" />
-
+  <img src="Name.svg" align="left" width="400" style="margin-right: 20px;" />
   <img src="Hobbies.svg" align="left" width="1000" style="margin-right: 20px;" />
-
 </p>
 
 
