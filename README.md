@@ -4,15 +4,11 @@
 🌱 I am currently working on and developing my programming skills.  
 💬 Skills I acquire in programming languages such as Python, C.  
 ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
+<p align="center">
+<img src="Name.svg" align="left" width="400" style="margin-right: 20px;" />
 
-<br clear="left"/>
-  <align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Prathul%20P%20Nair" alt="Prathul" /></a>
-  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/ML;
-  Electronics;
-  Hardware Coding;
-  Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-  
+  <img src="Hobbies.svg" align="left" width="1000" style="margin-right: 20px;" />
+
 </p>
 
 
