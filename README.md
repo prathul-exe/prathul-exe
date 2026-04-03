@@ -40,6 +40,7 @@
     </td>
   </tr>
 </table>
+<img src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966.gif" alt="e" style="max-width: 100%;">
 
  ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -76,7 +77,7 @@
 
 <br><br>
 </div>
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 ## Languages and Tools  
 <div align="center">   
