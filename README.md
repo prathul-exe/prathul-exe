@@ -74,7 +74,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-
 <br><br>
 </div>
 <img src="github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
@@ -88,7 +87,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
   
 </div>  
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwMTc3MjIsIm5iZiI6MTc3NDAxNzQyMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIwVDE0MzcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0OWQ5ODMxMzYwNjEzYzdjMzhjMzcyNjgzYzg0ZGJjYzRhNDEzZDliY2JjNGYzY2IyYjU3ZjdiODZlNTZmZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UdeM6ndDMPgtGRNDbpFJUtXlRDRjXDxM5yKAj0EZGYI" alt="Wall-E GIF" style="width:auto; height:auto" />
+<img src="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 <br/>  
 <br/>  
 
