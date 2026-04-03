@@ -4,6 +4,7 @@
 🌱 I am currently working on and developing my programming skills.  
 💬 Skills I acquire in programming languages such as Python, C.  
 ⚡ Interest in AI/ML, Automation, Hardware Coding, Electronics etc.
+
 <p align="center">
 <img src="Name.svg" align="left" width="400" style="margin-right: 20px;" />
 
