@@ -7,11 +7,15 @@
 
 <br clear="left"/>
 
-<!-- SVG Section -->
-<img src="Name.svg" align="left" width="300" style="margin-right: 20px;"/>
-<img src="Hobbies.svg" align="left" width="300" style="margin-right: 20px;"/>
+<!-- Name Banner -->
+<p align="center">
+  <img src="Name.svg" width="100%"/>
+</p>
 
-<br clear="left"/>
+<!-- Hobbies Banner -->
+<p align="center">
+  <img src="Hobbies.svg" width="100%"/>
+</p>
 
 
  # 👨‍💻Tech Stack
