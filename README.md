@@ -9,12 +9,12 @@
 
 <!-- Name Banner -->
 <p align="center">
-  <img src="Name.svg" width="100%"/>
+  <img src="Name.svg" width="50%"/>
 </p>
 
 <!-- Hobbies Banner -->
 <p align="center">
-  <img src="Hobbies.svg" width="100%"/>
+  <img src="Hobbies.svg" width="70%"/>
 </p>
 
 
