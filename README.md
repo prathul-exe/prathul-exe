@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="prathul.gif" />
+  <img src="ezgif-5df509251621ebce.gif" />
 </p>
 
 <img src="SUPERMARIO.gif" align="left" width="400" style="margin-right: 20px;"/>
