@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="QHJ.gif" />
-</p>
+<img src="QHJ.gif" alt="e" style="max-width: 100%;">
 
 <img src="SUPERMARIO.gif" align="left" width="400" style="margin-right: 20px;"/>
 
