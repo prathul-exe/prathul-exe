@@ -1,4 +1,23 @@
-<img src="QHJ.gif" alt="e" style="max-width: 100%;">
+<div style="position: relative; width: 100%;">
+  <img src="QHJ.gif" alt="gif" style="width: 100%; height: auto; display: block;">
+
+  <p style="
+    position: absolute;
+    bottom: 8px;
+    left: 10px;
+    color: #ff00ff;
+    font-size: 14px;
+    font-family: 'Orbitron', 'Courier New', monospace;
+    letter-spacing: 1.5px;
+    text-shadow: 
+      0 0 3px #ff00ff,
+      0 0 6px #ff00ff,
+      0 0 12px #ff00ff;
+    margin: 0;
+  ">
+    prathul-exe
+  </p>
+</div>
 
 <img src="SUPERMARIO.gif" align="left" width="400" style="margin-right: 20px;"/>
 
