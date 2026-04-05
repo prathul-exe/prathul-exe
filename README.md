@@ -22,6 +22,20 @@
   <img src="Hobbies.svg" width="70%"/>
 </p>
 
+<h2 align="center"> Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prathul-p-nair" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/prathul._p" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:Prathul.prasanthjiths@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 # My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -50,9 +64,9 @@
 </p>
 
  ## Github Stats
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prathul-exe?cardType=level&theme=dracula&fontFamily=ADLaM%20Display&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prathul-exe?cardType=level&theme=dracula&fontFamily=&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
  ![GitHub Stats](https://streak-stats.demolab.com?user=prathul-exe&theme=dracula&hide_border=true)
- 
+
  ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
