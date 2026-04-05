@@ -51,8 +51,8 @@
 
  ## Github Stats
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prathul-exe?cardType=level&theme=dracula&fontFamily=ADLaM%20Display&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
- ![GitHub Stats](https://streak-stats.demolab.com?user=prathul-exe&theme=gotham&hide_border=true)
-
+ ![GitHub Stats](https://streak-stats.demolab.com?user=prathul-exe&theme=dracula&hide_border=true)
+ 
  ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
