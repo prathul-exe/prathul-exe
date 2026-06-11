@@ -84,7 +84,7 @@
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![LTSpice](https://img.shields.io/badge/LTSPICE-%238B0000.svg?style=for-the-badge&logo=ltspice&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%238B0000.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ## AI & Productivity Tools
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
